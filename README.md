@@ -17,4 +17,4 @@ Running the Code:
 To Implement the code, Run double_pendulum.m on MATLAB. You can also modify the initial conditions as per your wish.
 
 Feel free to explore and modify the parameters to observe different double pendulum behaviors.
-![image](./data/outs/Screenshot_20221128_235002.png)
+![image](./pendulum.png)
