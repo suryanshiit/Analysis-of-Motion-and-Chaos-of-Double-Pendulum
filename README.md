@@ -4,8 +4,10 @@ This MATLAB code simulates the motion of a double pendulum using numerical integ
 
 The initial conditions are set with initial angles of 0.1 and 0.2 radians for the first and second pendulum, respectively, and initial angular speeds set to zero.
 
-Parameters
+Parameters:
 
 m: Mass of each particle.
+
 l: Length of each pendulum link.
+
 g: Acceleration due to gravity.
