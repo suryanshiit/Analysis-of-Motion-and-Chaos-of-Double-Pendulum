@@ -11,3 +11,9 @@ m: Mass of each particle.
 l: Length of each pendulum link.
 
 g: Acceleration due to gravity.
+
+Running the Code:
+
+To Implement the code, Run double_pendulum.m on MATLAB. You can also modify the initial conditions as per your wish.
+
+Feel free to explore and modify the parameters to observe different double pendulum behaviors.
